@@ -1,6 +1,6 @@
 #### communities
-**divisions**
 
+  **divisions**
   - VAR (1232 lots)
     - MW @ Moorefield Station-Lofts II (231 lots)
     - Union Park at McLean-Lofts (125 lots)
