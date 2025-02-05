@@ -1,10 +1,5 @@
 **communities**
 #### divisions
-<details>
-<summary>divisions</summary>
-<br>
-This is how you dropdown.
-</details>
 
   - VAR (1232 lots)
     - MW @ Moorefield Station-Lofts II (231 lots)
@@ -34,23 +29,23 @@ This is how you dropdown.
 
 #### Lots
   **product types**
- - Townhome (1163 lots)
- - Traditional Single Family (905)
- - Condo (233 lots)
+ - Townhome (859 lots)
+ - Traditional Single Family (650)
+ - Condo (116 lots)
 
-  **plan types**
-  - Walney (107 lots)
-  - Dylan (85)
-  - Parkhurst (83)
-  - Sully (78)
-  - Griffith (63)
-  - Hyde (58)
-  - Kalorama (49)
-  - Foggy Bottom (37)
-  - Chantilly (34)
-  - Warhol (32)
+  **top 10 most frequent plan types**
+ - Walney (178 lots)
+ - Sully (140 lots)
+ - Dylan (85 lots)
+ - Parkhurst (83 lots)
+ - Griffith (63 lots)
+ - Hyde (58 lots)
+ - Chantilly (53 lots)
+ - Kalorama (52 lots)
+ - Foggy Bottom (37 lots)
+ - Fairlane (37 lots)
 
-  Loaded Data
+#### data fields
 
 **general**
 
