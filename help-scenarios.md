@@ -1,18 +1,18 @@
-**Use Case**
+**Use Cases**
 
-Explore community performance data.
+Dynamic insights for pricing a new community
 
 **Questions flow**
 
-1 **Which community has the highest revenue in CA?**
-2 **What is the total projected revenue for Borello Ranch Estates?**
-3 **What is the average household income in the region of Borello Ranch Estates?**
-4 **What is the median home value there?**
+1 **How many communities have we built in X, Y, and Z zip codes?**
+2 **For those communities, can you break them into four distinct categories based on plan square footage?**
+3 **For the plans in these categories, what were the average gross margin and average gross margin percentage?**
+4 **For the plans in these categories, show me the average projected options, actual options, lot incentives, and maintenance?**
 
 --------
 **Use Case**
 
-Compare Performance Across Communities.
+Dynamic insights for land acquisition decision 
 
 **Key Questions**
 
