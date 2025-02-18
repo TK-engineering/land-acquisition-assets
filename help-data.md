@@ -25,7 +25,7 @@
     - Turf Valley-SF: 20 lots
     - Mt. Prospect-Orchard: 12 lots
     - Amalyn Bethesda-70' SFD: 4 lots
-    - ```Laurel Ridge-Glen```: 2 lots
+    - Laurel Ridge-Glen: 2 lots
 
 #### Lots
   **product types**
