@@ -157,7 +157,7 @@
  - elevation name
 
 ### **Financial performance data:**
-  *Available for each lot; Actual numbers and projected number as of deposit date*
+  *Available for each lot; Actual numbers and projected numbers as of deposit date*
 
 **Revenue numbers:**
  - gross margin
