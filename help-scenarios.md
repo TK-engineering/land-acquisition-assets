@@ -1,29 +1,8 @@
-**Use Cases**
+**Use Case: Profit optimization for ongoing communities** 
 
-Dynamic insights for pricing a new community
+scripts
 
-**Questions flow**
-
-1 **How many communities have we built in X, Y, and Z zip codes?**
-
-2 **For those communities, can you break them into four distinct categories based on plan square footage?**
-
-3 **For the plans in these categories, what were the average gross margin and average gross margin percentage?**
-
-4 **For the plans in these categories, show me the average projected options, actual options, lot incentives, and maintenance?**
-
---------
-**Use Case**
-
-Dynamic insights for land acquisition decision 
-
-**Key Questions**
-
-1 **Which communities in VAR division have the highest (or lowest) gross margin, operating margin, or net revenue?**
-
-2 **Do higher margins correlate with certain product types?**
-
-3 **What is the average net revenue per each product type?**
-
-4 **Show me a chart with average net revenue per product type.**
+1. [For baselining your division or area according to key metrics](https://docs.google.com/document/d/1KYP0W4xpkch-Lf5mbT-FOQZkR0PY3IWiqeZE3KHtH4c/edit?tab=t.0) 
+2. [For finding direct plan comps across your division or area](https://docs.google.com/document/d/1Lk_21aewrUIGQ80AqBv-WKs7nbMsagUxv3QJP3ncyDQ/edit?tab=t.0) 
+3. [For calculating comp categories across your division or area](https://docs.google.com/document/d/1mkfDYsNBJmSLuk5gv2A9qKtlS8l1K6-HlBveYS4JYbg/edit?tab=t.0)
 
