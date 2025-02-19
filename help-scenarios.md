@@ -1,4 +1,4 @@
-**Use Case: Profit optimization for ongoing communities within the VAR district** 
+**Use Case: Profit optimization for new/ongoing communities within the VAR district** 
 
 scripts
 
