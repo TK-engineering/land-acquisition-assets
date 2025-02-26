@@ -1,4 +1,4 @@
-link to the full dataset: https://docs.google.com/spreadsheets/d/1-FlDeX-arNhoiipLtpY5a8Tdm996Y3pTjDzA0ad-FCQ/edit?gid=1672229817#gid=1672229817
+[link to the full dataset](https://docs.google.com/spreadsheets/d/1-FlDeX-arNhoiipLtpY5a8Tdm996Y3pTjDzA0ad-FCQ/edit?gid=1672229817#gid=1672229817)
 
 ### **Division & Communities included in the tool:**
  - **CAN** (1284 lots)
