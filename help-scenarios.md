@@ -3,8 +3,6 @@
 scripts
 
 1. For baselining the VAR and MDL divisions or your community’s area according to key metrics
-
-Script
 - For this conversation, only consider data from the VAR and MDL districts.
   - alternate: For this conversation, only consider data from the 3 closest (insert product type) to this address: (insert community address)
 - What is average, first quartile, and third quartile for gross margin and gross margin percentage?
