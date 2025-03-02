@@ -1,5 +1,6 @@
 **Use Case: Profit optimization for new/ongoing communities within the VAR district** 
 
+
 scripts:
 
 **For baselining the VAR and MDL divisions or your community’s area according to key metrics**
