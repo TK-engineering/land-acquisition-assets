@@ -99,12 +99,12 @@
  - product type
  - plan name
  - elevation name
- - square_feet
- - number_of_stories
- - number_of_bedrooms
- - full_baths
- - half_baths
- - garage_size
+ - square feet
+ - number of stories
+ - number of bedrooms
+ - full baths
+ - half baths
+ - garage size
 
 ### **Financial performance data:**
   *Available for each lot; Actual numbers and projected numbers as of deposit date*
