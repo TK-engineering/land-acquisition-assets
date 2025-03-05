@@ -1,4 +1,4 @@
-[link to the full dataset](https://docs.google.com/spreadsheets/d/1-FlDeX-arNhoiipLtpY5a8Tdm996Y3pTjDzA0ad-FCQ/edit?gid=1672229817#gid=1672229817)
+[link to the full dataset](https://docs.google.com/spreadsheets/d/1vj-FzWmfGvO3G6Gn-w-HGA3nPe_g6sYEyD83KZjjFgg/edit?gid=806514022#gid=806514022)
 
 ### **Division & Communities included in the tool:**
 
@@ -15,12 +15,11 @@
    - Mt. Prospect-Orchard (12 lots)
    - Amalyn Bethesda-70' SFD (4 lots)
    - Laurel Ridge-Glen (2 lots)
- - **VAR** (1232 lots)
+ - **VAR** (1160 lots)
    - MW @ Moorefield Stn-Lofts II (231 lots)
    - Union Park at McLean-Lofts (125 lots)
    - MW @ Moorefield Stn-Towns N (114 lots)
    - Regency at Belmont (100 lots)
-   - Commonwealth Landbay A (81 lots)
    - Arden (73 lots)
    - MW @ Moorefield Stn-Flats (66 lots)
    - MW @ Moorefield Stn-Lofts N (61 lots)
@@ -39,6 +38,7 @@
    - MW@MoorefieldStn-Brownstones (17 lots)
    - MW@Moorefield Stn-Lofts ADU (16 lots)
    - Hayden at Great Falls (11 lots)
+   - Commonwealth Landbay A (9 lots)
    - Retreat at McLean-Mehr Farm (9 lots)
    - Avonmore (5 lots)
    - Loudoun Valley-Carlisle (5 lots)
@@ -56,7 +56,7 @@
    - Travilah (22 lots)
    - Glen Echo (18 lots)
    - Fenn (15 lots)
- - **VAR** (1232 lots)
+ - **VAR** (1160 lots)
    - Walney (178 lots)
    - Sully (140 lots)
    - Dylan (85 lots)
@@ -65,12 +65,9 @@
    - Chantilly (53 lots)
    - Foggy Bottom (37 lots)
    - Warhol (32 lots)
-   - L'Enfant (30 lots)
+   - LEnfant (30 lots)
    - NoMa (29 lots)
    - Wistman (29 lots)
-   - Edmond (27 lots)
-   - Fernand (27 lots)
-   - Louis (27 lots)
    - Palisades (25 lots)
    - Ballston (22 lots)
    - Eisenhower (21 lots)
@@ -82,15 +79,15 @@
    - Konni (16 lots)
    - Lennon (15 lots)
 
- **Product types:**
+**Product types:**
 
  - **MDL** (393 lots)
    - Traditional Single Family (369 lots)
    - Townhome (24 lots)
- - **VAR** (1232 lots)
+ - **VAR** (1160 lots)
    - Townhome (835 lots)
    - Traditional Single Family (281 lots)
-   - Condo (116 lots)
+   - Condo (44 lots)
 
 
 #### **Location fields:**
@@ -102,6 +99,12 @@
  - product type
  - plan name
  - elevation name
+ - square_feet
+ - number_of_stories
+ - number_of_bedrooms
+ - full_baths
+ - half_baths
+ - garage_size
 
 ### **Financial performance data:**
   *Available for each lot; Actual numbers and projected numbers as of deposit date*
@@ -128,11 +131,13 @@
  - job overhead
  - construction repair
  - warranty
- - real estate taxes
- - division sga
+ - real estatetaxes
+ - division SGA
  - marketing
  - employee commissions
  - broker referral
  - project management
  - advertising sales overhead
  - interest
+ - rebates
+
