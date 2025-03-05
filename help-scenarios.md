@@ -5,7 +5,7 @@ scripts:
 
 1. **For baselining the VAR, MDL divisions or your community’s area according to key metrics**
   - [for considering only your community's area]
-    - For this conversation, only consider data from the 3 closest (insert product type) to (insert community name)
+    - For this conversation, only consider data from the (insert community name) community and the 3 closest (insert product type) communities. 
   - What are the average, first quartile, and third quartile of gross margin and gross margin percentage?
   - The same for net options revenue and projected net options revenue.
   - The same for lot premium and projected lot premium. 
