@@ -1,4 +1,4 @@
-[link to the full dataset](https://tollbrothersinc-my.sharepoint.com/:x:/r/personal/jogletree_tollbrothers_com/Documents/work/TwinKnowledge/actuals_and_projected_at_lot_level_new.csv.xlsx?d=w84cc6f0e180a4162a45bfaa879572c7e&csf=1&web=1&e=BAm8CS)
+[link to the full dataset](https://docs.google.com/spreadsheets/d/1vj-FzWmfGvO3G6Gn-w-HGA3nPe_g6sYEyD83KZjjFgg/edit?usp=sharing)
 
 ### **Division & Communities included in the tool:**
 
