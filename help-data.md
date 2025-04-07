@@ -1,28 +1,28 @@
 [link to the full dataset](https://docs.google.com/spreadsheets/d/1Yt8bB5AArzjYrUVCXi8rJPffnok_-HHwGsFtL3QSD9o/edit?gid=34364619#gid=34364619v)
 
 ### **Division & Communities included in the tool:**
-** = INACTIVE due to not enough information
+** = REMOVED from current dataset due to consistent "0"/empty values
 
  - **MDL** (393 lots)
    - Amalyn Bethesda-35' SFD (54 lots)
    - Amalyn Bethesda-45' SFD (48 lots)
    - Amalyn Bethesda-70' SFD (4 lots)
-   - *Bartlett Square 
+   - **Bartlett Square 
    - Chevy Chase Crossing - RL TH
    - Chevy Chase Crossing -FL TH
-   - *Chevy Chase Crossing - ADUs
+   - **Chevy Chase Crossing - ADUs
    - Kingsley Woods (37 lots)
    - Laurel Ridge-Glen (2 lots)
-   - *Leeland 55-62' Execs
-   - *Leeland 72/95/125' Execs
+   - **Leeland 55-62' Execs
+   - **Leeland 72/95/125' Execs
    - Linden Grove (24 lots)
-   - *Marlboro Ridge-The Hunt
+   - **Marlboro Ridge-The Hunt
    - Mt. Prospect-Hamlet (55 lots)
    - Mt. Prospect-Orchard (12 lots)
    - Mt. Prospect-TH MPDU (24 lots)
    - Mt. Prospect-Windmill (68 lots)
    - Turf Valley-SF (20 lots)
-   - *Turf Valley-Townhomes
+   - **Turf Valley-Townhomes
    - Willowcreek (45 lots)
  - **VAR** (1160 lots)
    - Arden (73 lots)
@@ -37,7 +37,7 @@
    - Lenah Mill-95' Estate (27 lots)
    - Lenah Mills-The Executives (34 lots)
    - Loudoun Valley-Carlisle (5 lots)
-   - *Loudon Valley-Fairmont
+   - **Loudon Valley-Fairmont
    - MW @ Moorefield Stn-Flats (66 lots)
    - MW @ Moorefield Stn-Lifts ADUs (23 lots)
    - MW @ Moorefield Stn-Lofts II (231 lots)
@@ -47,19 +47,19 @@
    - MW @ Moorefield Stn-Brownstones (17 lots)
    - Parkside Village-40s (40 lots)
    - Parkside Village-50s (26 lots)
-   - *Parkside Village-ADUs
+   - **Parkside Village-ADUs
    - Regency at Belmont (100 lots)
    - Retreat at McLean-Mehr Farm (9 lots)
-   - *Riverfield Estates
+   - **Riverfield Estates
    - TB at Woodburn
    - The Grove at Dominion Hills (31 lots)
    - Union Park at McLean-Brown (22 lots)
    - Union Park at McLean-Lofts (125 lots)
    - Valley and Park WDU's (4 lots)
-   - *Veranda at The Parks-2o2
-   - *Veranda at The Parks-2o2 ADUs
-   - *Veranda at The Parks-TH ADUs
-   - *Veranda at The Parks-THs
+   - **Veranda at The Parks-2o2
+   - **Veranda at The Parks-2o2 ADUs
+   - **Veranda at The Parks-TH ADUs
+   - **Veranda at The Parks-THs
 
 #### **Development-specific fields:**
  - **Lot types:**
