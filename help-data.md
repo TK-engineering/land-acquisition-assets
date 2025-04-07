@@ -3,46 +3,62 @@
 ### **Division & Communities included in the tool:**
 
  - **MDL** (393 lots)
-   - Mt. Prospect-Windmill (68 lots)
-   - Mt. Prospect-Hamlet (55 lots)
    - Amalyn Bethesda-35' SFD (54 lots)
    - Amalyn Bethesda-45' SFD (48 lots)
-   - Willowcreek (45 lots)
-   - Kingsley Woods (37 lots)
-   - Linden Grove (24 lots)
-   - Mt. Prospect-TH MPDU (24 lots)
-   - Turf Valley-SF (20 lots)
-   - Mt. Prospect-Orchard (12 lots)
    - Amalyn Bethesda-70' SFD (4 lots)
+   - Bartlet Square
+   - Chevy Chase Crossing - RL TH
+   - Chevy Chase Crossing -FL TH
+   - Chevy Chase Crossing - ADUs
+   - Kingsley Woods (37 lots)
    - Laurel Ridge-Glen (2 lots)
+   - Leeland 55-62' Execs
+   - Leeland 72/95/125' Execs
+   - Linden Grove (24 lots)
+   - Marlboro Ridge-The Hunt
+   - Mt. Prospect-Hamlet (55 lots)
+   - Mt. Prospect-Orchard (12 lots)
+   - Mt. Prospect-TH MPDU (24 lots)
+   - Mt. Prospect-Windmill (68 lots)
+   - Turf Valley-SF (20 lots)
+   - Turf Valley-Townhomes
+   - Willowcreek (45 lots)
  - **VAR** (1160 lots)
-   - MW @ Moorefield Stn-Lofts II (231 lots)
-   - Union Park at McLean-Lofts (125 lots)
-   - MW @ Moorefield Stn-Towns N (114 lots)
-   - Regency at Belmont (100 lots)
    - Arden (73 lots)
-   - MW @ Moorefield Stn-Flats (66 lots)
-   - MW @ Moorefield Stn-Lofts N (61 lots)
-   - Parkside Village-40s (40 lots)
-   - Lenah Mills-The Executives (34 lots)
-   - The Grove at Dominion Hills (31 lots)
-   - Lenah Mill-95' Estate (27 lots)
+   - Avonmore (5 lots)
+   - Commonwealth Landbay A (9 lots)
    - Commonwealth Place-Braddock (26 lots)
-   - Parkside Village-50s (26 lots)
-   - Lenah Mill-75' Carolina (25 lots)
-   - MW @ Moorefield Stn-Lifts ADUs (23 lots)
    - Commonwealth Place-Fairfax (22 lots)
-   - Union Park at McLean-Brown (22 lots)
    - CommonwlthPlace@WfldsFairADU (19 lots)
    - Dominion Valley-Towns (19 lots)
-   - MW@MoorefieldStn-Brownstones (17 lots)
-   - MW@Moorefield Stn-Lofts ADU (16 lots)
    - Hayden at Great Falls (11 lots)
-   - Commonwealth Landbay A (9 lots)
-   - Retreat at McLean-Mehr Farm (9 lots)
-   - Avonmore (5 lots)
+   - Lenah Mill-75' Carolina (25 lots)
+   - Lenah Mill-95' Estate (27 lots)
+   - Lenah Mills-The Executives (34 lots)
    - Loudoun Valley-Carlisle (5 lots)
+   - Loudon Valley-Fairmont
+   - MW @ Moorefield Stn-Brownstones (17 lots)
+   - MW @ Moorefield Stn-Flats (66 lots)
+   - MW @ Moorefield Stn-Lifts ADUs (23 lots)
+   - MW @ Moorefield Stn-Lofts ADU (16 lots)
+   - MW @ Moorefield Stn-Lofts II (231 lots)
+   - MW @ Moorefield Stn-Lofts N (61 lots)
+   - MW @ Moorefield Stn-Towns N (114 lots)
+   - Parkside Village-40s (40 lots)
+   - Parkside Village-50s (26 lots)
+   - Parkside Village-ADUs
+   - Regency at Belmont (100 lots)
+   - Retreat at McLean-Mehr Farm (9 lots)
+   - Riverfield Estates
+   - TB at Woodburn
+   - The Grove at Dominion Hills (31 lots)
+   - Union Park at McLean-Brown (22 lots)
+   - Union Park at McLean-Lofts (125 lots)
    - Valley and Park WDU's (4 lots)
+   - Veranda at The Parks-2o2
+   - Veranda at The Parks-2o2 ADUs
+   - Veranda at The Parks-TH ADUs
+   - Veranda at The Parks-THs
 
 **Plans:**
 
