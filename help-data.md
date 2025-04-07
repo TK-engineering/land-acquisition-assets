@@ -1,4 +1,4 @@
-[link to the full dataset](https://docs.google.com/spreadsheets/d/1vj-FzWmfGvO3G6Gn-w-HGA3nPe_g6sYEyD83KZjjFgg/edit?usp=sharing)
+[link to the full dataset](https://docs.google.com/spreadsheets/d/1Yt8bB5AArzjYrUVCXi8rJPffnok_-HHwGsFtL3QSD9o/edit?gid=34364619#gid=34364619v)
 
 ### **Division & Communities included in the tool:**
 
@@ -60,21 +60,36 @@
    - Veranda at The Parks-TH ADUs
    - Veranda at The Parks-THs
 
+#### **Development-specific fields:**
+**Lot types:**
+ - HOM
+ - ADU
+
 **Product types:**
 
  - **MDL** (393 lots)
-   - Traditional Single Family (369 lots)
-   - Townhome (24 lots)
+   - Traditional Single Family (TSF) (369 lots)
+   - Townhome (TOW) (24 lots)
  - **VAR** (1160 lots)
-   - Townhome (835 lots)
-   - Traditional Single Family (281 lots)
-   - Condo (44 lots)
+   - Townhome (TOW) (835 lots)
+   - Traditional Single Family (TSF) (281 lots)
+   - Condo (CON) (44 lots)
+
+**QMI**
+ - True
+ - False
+
+**Dates**
+ - Deposit Date
+ - Toll Signed Date
+ - Lot Close Date
 
 
 #### **Location fields:**
  - address
  - city
  - county
+ - zip code
 
 #### **Design fields:**
  - product type
@@ -95,34 +110,35 @@
   *Available for each lot; Actual numbers and projected numbers as of deposit date*
 
 **Revenue numbers:**
- - gross margin
- - gross margin_percent
- - operating margin
  - total revenue
- - base house_price
+ - base house price
  - net lot premium
  - structural option revenue
  - design option revenue
  - net option revenue
+ - gross margin
+ - gross margin percent
 
 **Cost numbers:**
  - total costs
- - direct construction cost
- - lot cost
- - option cost
  - option incentives
  - sales incentives
+ - direct construction cost
+ - option cost
+ - lot cost
  - closing cost
  - job overhead
  - construction repair
  - warranty
- - real estatetaxes
+ - real estate taxes
  - division SGA
  - marketing
  - employee commissions
  - broker referral
  - project management
  - advertising sales overhead
+ - operating margin
  - interest
  - rebates
+ - builders reserve
 
