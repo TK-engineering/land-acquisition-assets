@@ -1,7 +1,7 @@
 [link to the full dataset](https://docs.google.com/spreadsheets/d/1Yt8bB5AArzjYrUVCXi8rJPffnok_-HHwGsFtL3QSD9o/edit?gid=34364619#gid=34364619v)
 
 ### **Division & Communities included in the tool:**
-* = INACTIVE due to not enough information
+** = INACTIVE due to not enough information
 
  - **MDL** (393 lots)
    - Amalyn Bethesda-35' SFD (54 lots)
