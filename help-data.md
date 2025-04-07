@@ -61,28 +61,28 @@
    - Veranda at The Parks-THs
 
 #### **Development-specific fields:**
-**Lot types:**
- - HOM
- - ADU
+ - **Lot types:**
+   - HOM
+   - ADU
 
-**Product types:**
+ - **Product types:**
 
- - **MDL** (393 lots)
-   - Traditional Single Family (TSF) (369 lots)
-   - Townhome (TOW) (24 lots)
- - **VAR** (1160 lots)
-   - Townhome (TOW) (835 lots)
-   - Traditional Single Family (TSF) (281 lots)
-   - Condo (CON) (44 lots)
+   - **MDL** (393 lots)
+     - Traditional Single Family (TSF) (369 lots)
+     - Townhome (TOW) (24 lots)
+   - **VAR** (1160 lots)
+     - Townhome (TOW) (835 lots)
+     - Traditional Single Family (TSF) (281 lots)
+     - Condo (CON) (44 lots)
 
-**QMI**
- - True
- - False
+ - **QMI**
+   - True
+   - False
 
-**Dates**
- - Deposit Date
- - Toll Signed Date
- - Lot Close Date
+ - **Dates**
+   - Deposit Date
+   - Toll Signed Date
+   - Lot Close Date
 
 
 #### **Location fields:**
