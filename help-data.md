@@ -103,10 +103,6 @@
  - half baths
  - garage size
 
-#### **(beta) External data:**
- - census
- - the location of above average public schools 
-
 ### **Financial performance data:**
   *Available for each lot; Actual numbers and projected numbers as of deposit date*
 
